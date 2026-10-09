@@ -583,6 +583,14 @@ docker compose down -v
 > **Warning:** `docker compose down -v` deletes the PostgreSQL volume and therefore removes persisted database data.
 
 ---
+## Output
+
+<img width="1920" height="975" alt="home" src="https://github.com/user-attachments/assets/2f05ea7b-4143-418a-ba80-f5c6bae29d8a" />
+<img width="1920" height="982" alt="dashborad" src="https://github.com/user-attachments/assets/bd69a85c-ec96-4e97-b254-76466ca24f83" />
+<img width="1022" height="353" alt="chat" src="https://github.com/user-attachments/assets/357cde38-191a-4c45-91fe-d4f062c850d5" />
+<img width="1920" height="980" alt="overview" src="https://github.com/user-attachments/assets/d98633cd-d8e2-4d39-8f5f-4693cfe4392a" />
+<img width="1920" height="926" alt="setting" src="https://github.com/user-attachments/assets/3a648749-d846-4fec-9932-b17dea35ce8e" />
+
 
 
 ## ⭐ Support
